@@ -1,0 +1,12 @@
+.Header-Main-card {
+    width: 100%;
+}
+.Top-header-card {
+    width: 100%;
+    padding: 0px 20px 0px 20px;
+    background: #165315;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

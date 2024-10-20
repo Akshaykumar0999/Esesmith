@@ -1,0 +1,62 @@
+.navbar-main-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-main-content-card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 10px 8px 10px;
+}
+.icon-card-styles {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-styles {
+    width: 60px;
+    height: 61px;
+    margin-right: 8px;
+}
+.all-Headre-options {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart-symbols-card {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.symbols-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+.navbar-search-card-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-main-search-card {
+    width: 40%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: none;
+    border-bottom: 1px solid #4a4a4a;
+    border-left: none;
+    border-right: none;
+    cursor: pointer;
+}

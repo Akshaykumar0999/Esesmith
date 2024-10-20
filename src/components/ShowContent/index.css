@@ -1,0 +1,17 @@
+.showcontent-card {
+    width: 100%;
+    padding: 10px 20px 10px 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.buttons-card {
+    width: 100px;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 0px;
+    border: 1px solid #8d8d8d;
+    color: #8d8d8d;
+}

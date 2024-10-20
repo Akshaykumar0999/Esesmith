@@ -1,0 +1,48 @@
+.plant-list-item-main-card {
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.plant-list-li-first-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #3e3e3e;
+}
+.plant-list-li-image {
+    width: 70%;
+    height: 250px;
+    margin: 10px;
+}
+.plant-love-symbol {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 10px 0px 0px;
+}
+.plant-list-button {
+    width: 100%;
+    background: #165315;
+    color: #ffffff;
+    border-radius: 0px;
+}
+.plant-list-details-li-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.plant-list-rating-card {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: #acacac;
+}
